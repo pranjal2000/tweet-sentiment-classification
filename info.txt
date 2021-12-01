@@ -1,0 +1,8 @@
+condition probab -
+ https://www.youtube.com/watch?v=OWGVQfuvNMk&feature=youtu.be
+
+assignment-
+http://www.cse.iitd.ac.in/~parags/teaching/col774/assignments/ass2/ass2.pdf
+
+data files-
+http://help.sentiment140.com/for-students
